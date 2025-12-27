@@ -46,6 +46,6 @@ givens_rotations(a, b, c, d)
 ```
 ---
 ## BY:
-Anushri Maheshwari
-Faaz Mohammed
-Vibha Patel
+-Anushri Maheshwari
+-Faaz Mohammed
+-Vibha Patel
