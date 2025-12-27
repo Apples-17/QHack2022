@@ -43,3 +43,9 @@ These angles uniquely parametrize the sequence of Givens rotations needed to gen
 ## Function Specification
 ```python
 givens_rotations(a, b, c, d)
+
+---
+## BY:
+Anushri Maheshwari
+Faaz Mohammed
+Vibha Patel
